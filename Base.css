@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:"Segoe UI", Tahoma, Geneva,Verdana,sans-serif;
+}
+:root{
+    --Color1:#406082;
+    --Color2:#ff4727;
+    --Color3:#672d60;
+    --COlor4:#fffbfa;
+}
